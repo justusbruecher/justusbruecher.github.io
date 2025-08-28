@@ -1,4 +1,9 @@
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
+# MacOS
+.DS_Store
+
+# Node / npm (falls du später mal JS-Tools nutzt)
+node_modules/
+npm-debug.log
+
+# Editor
+.vscode/
